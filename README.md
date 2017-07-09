@@ -2,4 +2,4 @@
 
 Start
 
-    python3.5 -m test_async
+    python3.5 -m async-await-test
