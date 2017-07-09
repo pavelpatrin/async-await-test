@@ -1,4 +1,4 @@
-# Simple async-await example without asyncio.
+# Simple async-await example without asyncio
 
 Start
 
